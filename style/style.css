@@ -10,8 +10,8 @@ body {
     line-height: 86%;
     font-family: Modak;
     padding-left: 7px;
-    background-clip: text;
     -webkit-background-clip: text;
+    background-clip: text;
     color: transparent;
     margin-top: 0px;
     text-shadow: 7px 7px 0px #d2d2d22e;
